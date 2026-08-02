@@ -75,4 +75,7 @@ int main()
     return 0;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 75836ab (Assignment Completed)
